@@ -19,5 +19,6 @@ Pandas, Numpy, Seaborn, Sklearn, matplotlib, wordcloud
 3.	weekly day service usage bar plot
 4.  predicting price using linear regression
 
-Project made with python
+Project entirely made with python
+
 ![Python Logo](python.jfif)
